@@ -1,0 +1,4 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+data/2022_COVID_VAERS_clean.csv
